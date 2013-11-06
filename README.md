@@ -1,2 +1,2 @@
-ExtJS-Training
-==============
+ExtJS-Basic-to-Pro
+==================
