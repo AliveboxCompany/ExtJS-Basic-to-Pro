@@ -1,34 +1,42 @@
 Ext.define('Practice2.view.MySecondView', {
 
-    extend: 'Ext.container.Container',
-
-    requires: [
-        'Ext.layout.container.Column'
-    ],
+    extend: 'Ext.panel.Panel',
 
     xtype: 'mysecondview',
 
-    layout: 'column',
-    width: 600,
-    height: 200,
+    height: 400,
 
-    initComponent: function(){
-        this.items = [
-            {
-                xtype: 'container',
-                columnWidth: 0.30,
-                style: 'background-color: #0000ff',
-                html: 'First column container'
-            },
-            {
-                xtype: 'container',
-                columnWidth: 0.70,
-                style: 'background-color: #ff0000',
-                html: 'Second column container'
-            }
-        ];
-        this.callParent(arguments);
-    }
+    dockedItems: [
+        {
+            xtype: 'toolbar',
+            dock: 'top',
+            items: [
+                {
+                    xtype: 'button',
+                    text: 'Docked at the top'
+                }
+            ]
+        },
+        {
+            xtype: 'toolbar',
+            dock: 'bottom',
+            items: [
+                {
+                    xtype: 'button',
+                    text: 'Docked at the bottom'
+                }
+            ]
+        }
+    ],
+
+    items: [
+        {
+            xtype: 'container',
+            html: 'Panel item',
+            style: 'background-color: #0000ff',
+            height: '100%'
+        }
+    ]
 
 });
 
