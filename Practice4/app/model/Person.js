@@ -9,63 +9,53 @@ Ext.define('Practice4.model.Person', {
         },
         {
             name: 'firstname',
-            type: 'string',
-            defaultValue: 'Juan Carlos'
+            type: 'string'
         },
         {
             name: 'lastname',
-            type: 'string',
-            defaultValue: 'Morales Mora'
+            type: 'string'
         },
         {
             name: 'age',
-            type: 'int',
-            defaultValue: 28
+            type: 'int'
         },
         {
             name: 'gender',
-            type: 'string',
-            defaultValue: 'Male'
+            type: 'string'
         },
         {
             name: 'email',
-            type: 'string',
-            defaultValue: 'juank.memphis@gmail.com'
+            type: 'string'
         },
         {
             name: 'birthdate',
             type: 'date',
-            dateFormat: 'd/m/Y',
-            defaultValue: '24/07/1985'
-        },
-        {
-            name: 'fullname',
-            type: 'string',
-            convert: function (argValue, argRecord) {
-                return argRecord.get('firstname') + ' ' + argRecord.get('lastname');
-            }
+            dateFormat: 'd/m/Y'
         }
     ],
 
     validations: [
         {
-            type: 'presence',
-            field: 'firstname'
-        },
-        {
             type: 'length',
             field: 'firstname',
-            min: 2
+            min: 2,
+            message: 'Firstname is requried and its min length is 2'
         },
         {
             type: 'inclusion',
             field: 'gender',
-            list: ['Male', 'Female']
+            list: ['Male', 'Female'],
+            message: 'Gender is required and its value should be Male or Female'
         },
         {
             type: 'email',
             field: 'email',
-            message: 'Email address must have the following format: "email@email.com"'
+            message: 'Email address is required and must have the following format: "email@email.com"'
+        },
+        {
+            type: 'presence',
+            field: 'birthdate',
+            message: 'Birthdate is required'
         }
     ]
 
