@@ -17,5 +17,22 @@ Ext.define('Practice4.Application', {
 
     stores: [
         // TODO: add stores here
-    ]
+    ],
+
+    launch: function(){
+        Ext.apply(Ext.form.field.VTypes, {
+
+            confirmPassword: function(argValue, argField) {
+                if (argField.initialPassField) {
+                    var tmpPasswordField = Ext.getCmp(argField.initialPassField);
+                    return (argValue == tmpPasswordField.getValue());
+                }
+                return true;
+            },
+
+            confirmPasswordText : 'Passwords do not match'
+
+        });
+    }
+
 });

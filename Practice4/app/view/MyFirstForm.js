@@ -66,20 +66,35 @@ Ext.define('Practice4.view.MyFirstForm', {
         },
         {
             fieldLabel: 'Email',
-            name: 'email'
+            name: 'email',
+            vtype: 'email'
         },
         {
             xtype: 'datefield',
             fieldLabel: 'Birth Date',
             name: 'birthdate',
             format: 'd/m/Y'
+        },
+
+        {
+            xtype: 'textfield',
+            inputType: 'password',
+            fieldLabel: 'Password',
+            id: 'userpassword'
+        },
+        {
+            xtype: 'textfield',
+            inputType: 'password',
+            fieldLabel: 'Confirm Password',
+            vtype: 'confirmPassword',
+            initialPassField: 'userpassword'
         }
 
     ],
 
-    initComponent: function(){
+    initComponent: function () {
         this.callParent(arguments);
-        this.getForm().loadRecord(Ext.create('Practice4.model.Person',{
+        this.getForm().loadRecord(Ext.create('Practice4.model.Person', {
             firstname: 'Juan Carlos',
             lastname: 'Morales Mora',
             age: 28,
@@ -88,7 +103,7 @@ Ext.define('Practice4.view.MyFirstForm', {
             birthdate: '24/07/1985'
         }));
 
-        Ext.defer(function(){
+        Ext.defer(function () {
 
             //Here we will validate the form
 
@@ -98,12 +113,11 @@ Ext.define('Practice4.view.MyFirstForm', {
 
             //Then we execute the model validation and we mark the form as invalid if required
             var tmpErrors = tmpRecord.validate();
-            if( !Ext.isEmpty(tmpErrors.items) ){
+            if (!Ext.isEmpty(tmpErrors.items)) {
                 this.getForm().markInvalid(tmpErrors);
             }
 
-
-        },2000,this);
+        }, 2000, this);
 
     }
 
