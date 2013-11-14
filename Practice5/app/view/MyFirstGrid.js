@@ -28,13 +28,24 @@ Ext.define('Practice5.view.MyFirstGrid', {
 
     store: Ext.getStore('simpsonsStore'),
 
+    selType: 'cellmodel',
+    plugins: [
+        Ext.create('Ext.grid.plugin.CellEditing', {
+            clicksToEdit: 2
+        })
+    ],
+
     columns: [
         {
             xtype: 'rownumberer'
         },
         {
             text: 'Name',
-            dataIndex: 'name'
+            dataIndex: 'name',
+            editor: {
+                xtype: 'textfield',
+                allowBlank: false
+            }
         },
         {
             text: 'Email',
@@ -55,8 +66,8 @@ Ext.define('Practice5.view.MyFirstGrid', {
         {
             text: 'Is an Alcoholic?',
             dataIndex: 'isAlcoholic',
-            renderer: function(argValue, argMetadata, argRecord, argRowIndex, argColIndex, argStore){
-                if(argValue){
+            renderer: function (argValue, argMetadata, argRecord, argRowIndex, argColIndex, argStore) {
+                if (argValue) {
                     return "Yeah";
                 }
                 return "Nope";
@@ -88,7 +99,7 @@ Ext.define('Practice5.view.MyFirstGrid', {
                 {
                     icon: 'resources/img/edit-icon.png',
                     tooltip: 'Edit',
-                    handler: function(argGrid, argRowIndex, argColIndex){
+                    handler: function (argGrid, argRowIndex, argColIndex) {
                         var tmpRecord = argGrid.getStore().getAt(argRowIndex);
                         alert("Edit " + tmpRecord.get('name'));
                     }
@@ -96,7 +107,7 @@ Ext.define('Practice5.view.MyFirstGrid', {
                 {
                     icon: 'resources/img/remove-icon.png',
                     tooltip: 'Remove',
-                    handler: function(argGrid, argRowIndex, argColIndex){
+                    handler: function (argGrid, argRowIndex, argColIndex) {
                         var tmpRecord = argGrid.getStore().getAt(argRowIndex);
                         alert("Remove " + tmpRecord.get('name'));
                     }
