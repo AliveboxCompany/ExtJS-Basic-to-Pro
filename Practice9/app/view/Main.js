@@ -1,26 +1,38 @@
 Ext.define('Practice9.view.Main', {
+
     extend: 'Ext.container.Container',
-    requires:[
-        'Ext.tab.Panel',
-        'Ext.layout.container.Border'
-    ],
-    
+
     xtype: 'app-main',
 
-    layout: {
-        type: 'border'
+    initComponent: function(){
+        console.log('initComponent...');
+        this.items = [
+            {
+                xtype: 'container',
+                itemId: 'mainContainer',
+                html: 'Creating custom components'
+            }
+        ];
+        this.callParent(arguments);
+        var tmpMainContainer = Ext.ComponentQuery.query('app-main container[itemId=mainContainer]');
+        console.log(tmpMainContainer.length);
     },
 
-    items: [{
-        region: 'west',
-        xtype: 'panel',
-        title: 'west',
-        width: 150
-    },{
-        region: 'center',
-        xtype: 'tabpanel',
-        items:[{
-            title: 'Center Tab 1'
-        }]
-    }]
+    afterRender: function(){
+        console.log('afterRender...');
+        this.callParent(arguments);
+        var tmpMainContainer = Ext.ComponentQuery.query('app-main container[itemId=mainContainer]');
+        console.log(tmpMainContainer.length);
+        Ext.Function.defer(function(){
+            var tmpViewport = Ext.ComponentQuery.query('viewport')[0];
+            tmpViewport.removeAll();
+        },2000);
+    },
+
+    destroy: function(){
+        console.log('destroy...');
+        this.callParent();
+    }
+
 });
+
