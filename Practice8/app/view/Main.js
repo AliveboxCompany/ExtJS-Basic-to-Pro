@@ -1,26 +1,24 @@
 Ext.define('Practice8.view.Main', {
+
     extend: 'Ext.container.Container',
-    requires:[
-        'Ext.tab.Panel',
-        'Ext.layout.container.Border'
-    ],
-    
+
     xtype: 'app-main',
 
-    layout: {
-        type: 'border'
-    },
-
-    items: [{
-        region: 'west',
-        xtype: 'panel',
-        title: 'west',
-        width: 150
-    },{
-        region: 'center',
-        xtype: 'tabpanel',
-        items:[{
-            title: 'Center Tab 1'
-        }]
-    }]
+    items: [
+        {
+            xtype: 'container',
+            itemId: 'mainContainer',
+            tpl: [
+                '<tpl for=".">',
+                    'First Name: {fName} <br>',
+                    'Last Name: {lName}',
+                    '<hr>',
+                '</tpl>'
+            ]
+        },
+        {
+            xtype: 'myfirstdataview'
+        }
+    ]
 });
+
