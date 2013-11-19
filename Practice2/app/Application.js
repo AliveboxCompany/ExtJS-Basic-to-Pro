@@ -4,8 +4,7 @@ Ext.define('Practice2.Application', {
     extend: 'Ext.app.Application',
 
     views: [
-        'MyFirstView',
-        'MySecondView'
+        // TODO: add views here
     ],
 
     controllers: [

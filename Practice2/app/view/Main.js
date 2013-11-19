@@ -6,11 +6,8 @@ Ext.define('Practice2.view.Main', {
 
     items: [
         {
-            xtype: 'myfirstview'
-        },
-        {
-            xtype: 'mysecondview'
+            xtype: 'container',
+            html: 'Basic extjs app'
         }
     ]
 });
-
