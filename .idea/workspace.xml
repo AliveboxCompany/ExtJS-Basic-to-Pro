@@ -2,52 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e8aeb6-8594-4300-aa59-d9c174726a3c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice2-final/app/view/MyFirstView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/ext.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/native.defaults.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/package.defaults.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/production.defaults.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/testing.defaults.properties" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\.idea\Practice2.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\app\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\app\controller\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\app\model\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\app\store\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\app\view\MySecondView.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\app\view\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\build\temp\production\Practice2\sencha-compiler\app\full-page-master-bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\build\temp\production\Practice2\sencha-compiler\cmd-packages.js" afterPath="" />
-      <change type="MOVED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\.sencha\app\production.properties" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/build.properties" />
-      <change type="MOVED" beforePath="C:\wamp\www\ExtJS-Basic-to-Pro\Practice2\app\view\MyFirstView.js" afterPath="$PROJECT_DIR$/Practice2-final/app/view/MySecondView.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2-final/app/Application.js" afterPath="$PROJECT_DIR$/Practice2-final/app/Application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/app/Application.js" afterPath="$PROJECT_DIR$/Practice2/app/Application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2-final/app/view/Main.js" afterPath="$PROJECT_DIR$/Practice2-final/app/view/Main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/app/view/Main.js" afterPath="$PROJECT_DIR$/Practice2/app/view/Main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2-final/app/view/Viewport.js" afterPath="$PROJECT_DIR$/Practice2-final/app/view/Viewport.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/app.json" afterPath="$PROJECT_DIR$/Practice2/app.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/bootstrap.json" afterPath="$PROJECT_DIR$/Practice2/bootstrap.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/.sencha/app/build-impl.xml" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/build-impl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/.sencha/app/codegen.json" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/codegen.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/.sencha/app/defaults.properties" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/defaults.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/.sencha/app/init-impl.xml" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/init-impl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/.sencha/app/native.properties" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/native.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/.sencha/app/package.properties" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/package.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/.sencha/app/microloader/production.js" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/microloader/production.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/.sencha/app/production.properties" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/production.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/.sencha/app/resources-impl.xml" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/resources-impl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/.sencha/app/sass-impl.xml" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/sass-impl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/.sencha/app/sencha.cfg" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/sencha.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/.sencha/workspace/sencha.cfg" afterPath="$PROJECT_DIR$/Practice2/.sencha/workspace/sencha.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/.sencha/app/testing.properties" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/testing.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice2/.sencha/app/watch-impl.xml" afterPath="$PROJECT_DIR$/Practice2/.sencha/app/watch-impl.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ExtJS-Basic-to-Pro.iws" />
@@ -107,10 +62,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MySecondView.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MySecondView.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Practice2-final/app/view/MySecondView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="0" selection-start="764" selection-end="764" vertical-scroll-proportion="0.8178694">
+            <state line="42" column="0" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practice2/app/view/Main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="30" selection-start="154" selection-end="154" vertical-scroll-proportion="0.15578465">
               <folding />
             </state>
           </provider>
@@ -134,7 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Practice3-final/.sencha/app/codegen.json" />
         <option value="$PROJECT_DIR$/Practice4-final/.sencha/app/codegen.json" />
         <option value="$PROJECT_DIR$/Practice5-final/.sencha/app/codegen.json" />
         <option value="$PROJECT_DIR$/Practice6-final/.sencha/app/codegen.json" />
@@ -150,6 +113,7 @@
         <option value="$PROJECT_DIR$/Practice2-final/app/Application.js" />
         <option value="$PROJECT_DIR$/Practice2-final/app/view/Main.js" />
         <option value="$PROJECT_DIR$/Practice2-final/app/view/MySecondView.js" />
+        <option value="$PROJECT_DIR$/Practice2/app/view/Main.js" />
       </list>
     </option>
   </component>
@@ -221,60 +185,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Practice2-final" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Practice2-final" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Practice2-final" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -320,14 +230,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25506938" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -403,13 +313,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Practice4-final/.sencha/app/codegen.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="26" selection-start="5337" selection-end="5337" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practice5-final/.sencha/app/codegen.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="26" selection-start="5337" selection-end="5337" vertical-scroll-proportion="0.0">
@@ -510,7 +413,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice2-final/app/view/MySecondView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="764" selection-end="764" vertical-scroll-proportion="0.8178694">
+        <state line="42" column="0" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice2/app/view/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="30" selection-start="154" selection-end="154" vertical-scroll-proportion="0.15578465">
           <folding />
         </state>
       </provider>
