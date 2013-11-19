@@ -1,6 +1,6 @@
 Ext.define('Practice3.view.Viewport', {
     extend: 'Ext.container.Viewport',
-    requires: [
+    requires:[
         'Ext.layout.container.Fit',
         'Practice3.view.Main'
     ],
@@ -9,9 +9,7 @@ Ext.define('Practice3.view.Viewport', {
         type: 'fit'
     },
 
-    items: [
-        {
-            xtype: 'app-main'
-        }
-    ]
+    items: [{
+        xtype: 'app-main'
+    }]
 });

@@ -6,8 +6,7 @@ Ext.define('Practice3.view.Main', {
 
     items: [
         {
-            xtype: 'container',
-            html: 'Main view'
+            xtype: 'container'
         }
     ]
 });

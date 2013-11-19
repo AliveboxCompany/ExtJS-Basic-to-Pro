@@ -3,10 +3,6 @@ Ext.define('Practice3.Application', {
 
     extend: 'Ext.app.Application',
 
-    requires: [
-        'Ext.window.MessageBox'
-    ],
-
     views: [
         // TODO: add views here
     ],
@@ -15,27 +11,7 @@ Ext.define('Practice3.Application', {
         // TODO: add controllers here
     ],
 
-    models: [
-        'Address',
-        'Person'
-    ],
-
     stores: [
-        'Persons'
-    ],
-
-    launch: function () {
-        var tmpPersonsStore = Ext.getStore('Persons');
-
-        var tmpWomen = tmpPersonsStore.getWomen();
-        var tmpWomenNames = "Women: \n";
-
-        Ext.Array.each(tmpWomen,function(argPerson){
-            tmpWomenNames = tmpWomenNames + argPerson.get('fullname') + '\n';
-        });
-
-        alert(tmpWomenNames);
-
-    }
-
+        // TODO: add stores here
+    ]
 });
