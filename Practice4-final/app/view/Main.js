@@ -6,8 +6,8 @@ Ext.define('Practice4.view.Main', {
 
     items: [
         {
-            xtype: 'container',
-            html: 'Basic extjs app'
+            xtype: 'myfirstform'
         }
     ]
 });
+

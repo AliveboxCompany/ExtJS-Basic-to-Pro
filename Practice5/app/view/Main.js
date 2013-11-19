@@ -6,7 +6,8 @@ Ext.define('Practice5.view.Main', {
 
     items: [
         {
-            xtype: 'myfirstgrid'
+            xtype: 'container',
+            html: 'Basic extjs app'
         }
     ]
 });

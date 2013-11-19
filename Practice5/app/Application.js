@@ -4,7 +4,7 @@ Ext.define('Practice5.Application', {
     extend: 'Ext.app.Application',
 
     views: [
-        'MyFirstGrid'
+        // TODO: add views here
     ],
 
     controllers: [
