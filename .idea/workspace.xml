@@ -2,48 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e8aeb6-8594-4300-aa59-d9c174726a3c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice7/app/controller/Main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/ext.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/native.defaults.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/package.defaults.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/production.defaults.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/testing.defaults.properties" />
-      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7\.idea\Practice7.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7\.idea\scopes\scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7\app\controller\MyFirstFormController.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7\build\temp\production\Practice7\sencha-compiler\app\full-page-master-bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7\build\temp\production\Practice7\sencha-compiler\cmd-packages.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Practice7/.sencha/app/production.properties" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/build.properties" />
-      <change type="MOVED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7-final\app\controller\Main.js" afterPath="$PROJECT_DIR$/Practice7-final/app/controller/MyFirstFormController.js" />
-      <change type="MOVED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7\app\model\Person.js" afterPath="$PROJECT_DIR$/Practice7-final/app/model/Person.js" />
-      <change type="MOVED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7\app\store\Genders.js" afterPath="$PROJECT_DIR$/Practice7-final/app/store/Genders.js" />
-      <change type="MOVED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7\app\view\MyFirstForm.js" afterPath="$PROJECT_DIR$/Practice7-final/app/view/MyFirstForm.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7-final/app/Application.js" afterPath="$PROJECT_DIR$/Practice7-final/app/Application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/app/Application.js" afterPath="$PROJECT_DIR$/Practice7/app/Application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7-final/app/view/Main.js" afterPath="$PROJECT_DIR$/Practice7-final/app/view/Main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/app/view/Main.js" afterPath="$PROJECT_DIR$/Practice7/app/view/Main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/app.json" afterPath="$PROJECT_DIR$/Practice7/app.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/bootstrap.json" afterPath="$PROJECT_DIR$/Practice7/bootstrap.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/.sencha/app/build-impl.xml" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/build-impl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/.sencha/app/codegen.json" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/codegen.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/.sencha/app/defaults.properties" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/defaults.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/.sencha/app/init-impl.xml" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/init-impl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/.sencha/app/native.properties" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/native.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/.sencha/app/package.properties" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/package.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/.sencha/app/microloader/production.js" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/microloader/production.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/.sencha/app/production.properties" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/production.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/.sencha/app/resources-impl.xml" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/resources-impl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/.sencha/app/sass-impl.xml" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/sass-impl.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/.sencha/app/sencha.cfg" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/sencha.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/.sencha/workspace/sencha.cfg" afterPath="$PROJECT_DIR$/Practice7/.sencha/workspace/sencha.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/.sencha/app/testing.properties" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/testing.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice7/.sencha/app/watch-impl.xml" afterPath="$PROJECT_DIR$/Practice7/.sencha/app/watch-impl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice8/resources/img/bioshock.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice8/resources/img/fallout2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice8/resources/img/masseffect.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice8/resources/img/starcraft.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice8-final/app/store/Images.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice8-final/app/controller/MainController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice8/app/controller/MainController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice8-final/app/view/MyFirstDataView.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/ext.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/native.defaults.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/package.defaults.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/production.defaults.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/testing.defaults.properties" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8-final\app\controller\Main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8\.idea\Practice8.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8\.idea\jsLibraryMappings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8\app\controller\Main.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8\app\store\Images.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8\app\view\MyFirstDataView.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8\build\temp\production\Practice8\sencha-compiler\app\full-page-master-bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8\build\temp\production\Practice8\sencha-compiler\cmd-packages.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Practice8/.sencha/app/production.properties" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/build.properties" />
+      <change type="MOVED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8\app\model\Image.js" afterPath="$PROJECT_DIR$/Practice8-final/app/model/Image.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8-final/app/Application.js" afterPath="$PROJECT_DIR$/Practice8-final/app/Application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/app/Application.js" afterPath="$PROJECT_DIR$/Practice8/app/Application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8-final/app/view/Main.js" afterPath="$PROJECT_DIR$/Practice8-final/app/view/Main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/app/view/Main.js" afterPath="$PROJECT_DIR$/Practice8/app/view/Main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/app.json" afterPath="$PROJECT_DIR$/Practice8/app.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/bootstrap.json" afterPath="$PROJECT_DIR$/Practice8/bootstrap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/.sencha/app/build-impl.xml" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/build-impl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/.sencha/app/codegen.json" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/codegen.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/.sencha/app/defaults.properties" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/defaults.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/.sencha/app/init-impl.xml" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/init-impl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/.sencha/app/native.properties" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/native.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/.sencha/app/package.properties" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/package.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/.sencha/app/microloader/production.js" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/microloader/production.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/.sencha/app/production.properties" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/production.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/.sencha/app/resources-impl.xml" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/resources-impl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/.sencha/app/sass-impl.xml" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/sass-impl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/.sencha/app/sencha.cfg" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/sencha.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/.sencha/workspace/sencha.cfg" afterPath="$PROJECT_DIR$/Practice8/.sencha/workspace/sencha.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/.sencha/app/testing.properties" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/testing.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice8/.sencha/app/watch-impl.xml" afterPath="$PROJECT_DIR$/Practice8/.sencha/app/watch-impl.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ExtJS-Basic-to-Pro.iws" />
@@ -68,36 +76,56 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Application.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice7-final/app/Application.js">
+        <entry file="file://$PROJECT_DIR$/Practice8-final/app/Application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="30" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+            <state line="6" column="25" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFirstForm.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice7-final/app/view/MyFirstForm.js">
+      <file leaf-file-name="Main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice8-final/app/view/Main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="21" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1513">
+            <state line="29" column="0" selection-start="666" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFirstFormController.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practice7-final/app/controller/MyFirstFormController.js">
+      <file leaf-file-name="Images.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice8-final/app/store/Images.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="28" selection-start="900" selection-end="900" vertical-scroll-proportion="0.22285715" vertical-offset="417" max-vertical-offset="1292">
+            <state line="15" column="0" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Person.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice7-final/app/model/Person.js">
+      <file leaf-file-name="MyFirstDataView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice8-final/app/view/MyFirstDataView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="34" selection-start="28" selection-end="34" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1173">
+            <state line="21" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+              <folding>
+                <marker date="1384975336229" expanded="true" signature="279:299" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainController.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practice8-final/app/controller/MainController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="54" column="0" selection-start="1527" selection-end="1527" vertical-scroll-proportion="0.8834286" vertical-offset="145" max-vertical-offset="1020">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Image.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice8-final/app/model/Image.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
               <folding />
             </state>
           </provider>
@@ -121,22 +149,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Practice6/app/view/Main.js" />
-        <option value="$PROJECT_DIR$/Practice6-final/app/model/Simpson.js" />
-        <option value="$PROJECT_DIR$/Practice6-final/app/model/Animal.js" />
-        <option value="$PROJECT_DIR$/Practice6-final/app/Application.js" />
-        <option value="$PROJECT_DIR$/Practice6-final/app/view/Main.js" />
-        <option value="$PROJECT_DIR$/Practice6-final/app/view/MyFirstGrid.js" />
-        <option value="$PROJECT_DIR$/Practice6-final/app/model/RottenMovie.js" />
-        <option value="$PROJECT_DIR$/Practice6-final/app/store/RottenMovies.js" />
-        <option value="$PROJECT_DIR$/Practice6-final/app/view/RottenMoviesGrid.js" />
-        <option value="$PROJECT_DIR$/Practice7/app/view/Main.js" />
         <option value="$PROJECT_DIR$/Practice7-final/app/store/Genders.js" />
         <option value="$PROJECT_DIR$/Practice7-final/app/view/Main.js" />
         <option value="$PROJECT_DIR$/Practice7-final/app/model/Person.js" />
         <option value="$PROJECT_DIR$/Practice7-final/app/Application.js" />
         <option value="$PROJECT_DIR$/Practice7-final/app/view/MyFirstForm.js" />
         <option value="$PROJECT_DIR$/Practice7-final/app/controller/MyFirstFormController.js" />
+        <option value="$PROJECT_DIR$/Practice8/app/view/Main.js" />
+        <option value="$PROJECT_DIR$/Practice8/app/controller/Main.js" />
+        <option value="$PROJECT_DIR$/Practice8/app/Application.js" />
+        <option value="$PROJECT_DIR$/Practice8-final/app/controller/Main.js" />
+        <option value="$PROJECT_DIR$/Practice8/app/model/Image.js" />
+        <option value="$PROJECT_DIR$/Practice8-final/app/store/Images.js" />
+        <option value="$PROJECT_DIR$/Practice8-final/app/Application.js" />
+        <option value="$PROJECT_DIR$/Practice8-final/app/view/Main.js" />
+        <option value="$PROJECT_DIR$/Practice8-final/app/view/MyFirstDataView.js" />
+        <option value="$PROJECT_DIR$/Practice8-final/app/controller/MainController.js" />
       </list>
     </option>
   </component>
@@ -207,6 +235,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Practice9-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Practice9-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Practice9-final" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -224,11 +306,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8" />
+      <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8-final\app\store" />
+      <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice8-final\app" />
       <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7-final\app\model" />
       <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7-final\app\view" />
-      <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7-final\app\store" />
-      <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice7" />
-      <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6-final\app\view" />
     </key>
   </component>
   <component name="RunManager">
@@ -315,76 +397,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Practice6-final/app/store/Simpsons.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="136" selection-end="136" vertical-scroll-proportion="0.17485714" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice6-final/app/model/Simpson.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="5" selection-start="586" selection-end="586" vertical-scroll-proportion="0.408" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice6-final/app/view/MyFirstGrid.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="15" selection-start="134" selection-end="134" vertical-scroll-proportion="0.067428574" vertical-offset="60" max-vertical-offset="935">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice7/.sencha/app/plugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="58" selection-start="932" selection-end="932" vertical-scroll-proportion="0.34971428" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice6-final/app/view/RottenMoviesGrid.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="0" selection-start="659" selection-end="659" vertical-scroll-proportion="0.7382857" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice6-final/app/view/Main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="237" selection-end="237" vertical-scroll-proportion="0.31085715" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice6-final/app/Application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="25" selection-start="159" selection-end="159" vertical-scroll-proportion="0.136" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice6-final/app/store/RottenMovies.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="162" selection-end="162" vertical-scroll-proportion="0.19428572" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice6-final/app/model/RottenMovie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="704" selection-end="704" vertical-scroll-proportion="0.69942856" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice7/app/view/Main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="3" selection-start="174" selection-end="174" vertical-scroll-proportion="0.21371429" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practice7-final/app/store/Genders.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
@@ -399,9 +411,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Practice8/.sencha/app/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="40" selection-start="604" selection-end="604" vertical-scroll-proportion="0.23314285" vertical-offset="0" max-vertical-offset="875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice7-final/app/controller/MyFirstFormController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="28" selection-start="900" selection-end="900" vertical-scroll-proportion="0.22285715" vertical-offset="417" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice7-final/app/view/MyFirstForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="21" selection-start="736" selection-end="736" vertical-scroll-proportion="0.64114285" vertical-offset="0" max-vertical-offset="1513">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Practice7-final/app/Application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="30" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+        <state line="10" column="30" selection-start="190" selection-end="190" vertical-scroll-proportion="0.19428572" vertical-offset="0" max-vertical-offset="875">
           <folding />
         </state>
       </provider>
@@ -413,16 +446,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice7-final/app/view/MyFirstForm.js">
+    <entry file="file://$PROJECT_DIR$/Practice8/app/controller/MainController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="21" selection-start="736" selection-end="736" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1513">
+        <state line="5" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="0.09714286" vertical-offset="0" max-vertical-offset="875">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice7-final/app/controller/MyFirstFormController.js">
+    <entry file="file://$PROJECT_DIR$/Practice8/app/Application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="28" selection-start="900" selection-end="900" vertical-scroll-proportion="0.22285715" vertical-offset="417" max-vertical-offset="1292">
+        <state line="12" column="0" selection-start="202" selection-end="202" vertical-scroll-proportion="0.23314285" vertical-offset="0" max-vertical-offset="875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice8/app/view/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="30" selection-start="154" selection-end="154" vertical-scroll-proportion="0.15542857" vertical-offset="0" max-vertical-offset="875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice8-final/app/model/Image.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice8-final/app/store/Images.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice8-final/app/Application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="25" selection-start="136" selection-end="136" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice8-final/app/view/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="666" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice8-final/app/view/MyFirstDataView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <folding>
+            <marker date="1384975336229" expanded="true" signature="279:299" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice8-final/app/controller/MainController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="0" selection-start="1527" selection-end="1527" vertical-scroll-proportion="0.8834286" vertical-offset="145" max-vertical-offset="1020">
           <folding />
         </state>
       </provider>

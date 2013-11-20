@@ -7,7 +7,23 @@ Ext.define('Practice8.view.Main', {
     items: [
         {
             xtype: 'container',
-            html: 'Basic extjs app'
+            itemId: 'templateContainer',
+            tpl: [
+                '<ul>',
+                    '<tpl for=".">',
+                        '<li>{[this.outputName(values)]}</li>',
+                    '</tpl>',
+                '</ul>',
+                {
+                    outputName: function(argData){
+                        return argData.lname + ', ' + argData.fname
+                    }
+                }
+            ]
+        },
+        {
+            xtype: 'myfirstdataview'
         }
     ]
 });
+

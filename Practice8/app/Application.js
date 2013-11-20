@@ -4,19 +4,14 @@ Ext.define('Practice8.Application', {
     extend: 'Ext.app.Application',
 
     views: [
-        'MyFirstDataView'
+        // TODO: add views here
     ],
 
     controllers: [
-        'Main'
+        'MainController'
     ],
 
     stores: [
-        'Images'
-    ],
-
-    models: [
-        'Image'
+        // TODO: add stores here
     ]
-
 });
