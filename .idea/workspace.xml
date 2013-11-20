@@ -2,13 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e8aeb6-8594-4300-aa59-d9c174726a3c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice5-final/resources/img/edit-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice5-final/resources/img/remove-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice5-final/app/view/MyFirstGrid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice5-final/app/store/Simpsons.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice5-final/app/Application.js" afterPath="$PROJECT_DIR$/Practice5-final/app/Application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice5-final/app/view/Main.js" afterPath="$PROJECT_DIR$/Practice5-final/app/view/Main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice5/app/view/Main.js" afterPath="$PROJECT_DIR$/Practice5/app/view/Main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice6-final/app/model/Animal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice6-final/app/view/MyFirstGrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice6-final/app/model/RottenMovie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice6-final/app/model/Simpson.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice6-final/app/store/Simpsons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/ext.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/native.defaults.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/package.defaults.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/production.defaults.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice6-final/resources/data/simpsons.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/testing.defaults.properties" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\.idea\Practice6.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\app\Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\app\controller\Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\app\model\Person.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\app\model\RottenMovie.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\app\model\Simpson.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\app\store\Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\app\store\RottenMovies.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\app\view\RottenMoviesGrid.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\build\temp\production\Practice6\sencha-compiler\app\full-page-master-bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\build\temp\production\Practice6\sencha-compiler\cmd-packages.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Practice6/.sencha/app/production.properties" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/build.properties" />
+      <change type="MOVED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\app\store\Simpsons.js" afterPath="$PROJECT_DIR$/Practice6-final/app/store/RottenMovies.js" />
+      <change type="MOVED" beforePath="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6\app\view\MyFirstGrid.js" afterPath="$PROJECT_DIR$/Practice6-final/app/view/RottenMoviesGrid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6-final/app/Application.js" afterPath="$PROJECT_DIR$/Practice6-final/app/Application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/app/Application.js" afterPath="$PROJECT_DIR$/Practice6/app/Application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6-final/app/view/Main.js" afterPath="$PROJECT_DIR$/Practice6-final/app/view/Main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/app/view/Main.js" afterPath="$PROJECT_DIR$/Practice6/app/view/Main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/app.json" afterPath="$PROJECT_DIR$/Practice6/app.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/bootstrap.json" afterPath="$PROJECT_DIR$/Practice6/bootstrap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/.sencha/app/build-impl.xml" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/build-impl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/.sencha/app/codegen.json" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/codegen.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/.sencha/app/defaults.properties" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/defaults.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/.sencha/app/init-impl.xml" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/init-impl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/.sencha/app/native.properties" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/native.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/.sencha/app/package.properties" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/package.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/.sencha/app/microloader/production.js" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/microloader/production.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/.sencha/app/production.properties" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/production.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/.sencha/app/resources-impl.xml" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/resources-impl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/.sencha/app/sass-impl.xml" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/sass-impl.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/.sencha/app/sencha.cfg" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/sencha.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/.sencha/workspace/sencha.cfg" afterPath="$PROJECT_DIR$/Practice6/.sencha/workspace/sencha.cfg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/.sencha/app/testing.properties" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/testing.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice6/.sencha/app/watch-impl.xml" afterPath="$PROJECT_DIR$/Practice6/.sencha/app/watch-impl.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ExtJS-Basic-to-Pro.iws" />
@@ -33,36 +79,45 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Application.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice5-final/app/Application.js">
+        <entry file="file://$PROJECT_DIR$/Practice6-final/app/Application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="18" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+            <state line="7" column="25" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice5-final/app/view/Main.js">
+        <entry file="file://$PROJECT_DIR$/Practice6-final/app/view/Main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+            <state line="16" column="0" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Simpsons.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Practice5-final/app/store/Simpsons.js">
+      <file leaf-file-name="RottenMoviesGrid.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Practice6-final/app/view/RottenMoviesGrid.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="902" selection-end="902" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+            <state line="38" column="0" selection-start="659" selection-end="659" vertical-scroll-proportion="0.7382857" vertical-offset="0" max-vertical-offset="875">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFirstGrid.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Practice5-final/app/view/MyFirstGrid.js">
+      <file leaf-file-name="RottenMovies.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice6-final/app/store/RottenMovies.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="10" selection-start="680" selection-end="680" vertical-scroll-proportion="0.68" vertical-offset="0" max-vertical-offset="1819">
+            <state line="10" column="0" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RottenMovie.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Practice6-final/app/model/RottenMovie.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="0" selection-start="704" selection-end="704" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
               <folding />
             </state>
           </provider>
@@ -86,22 +141,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Practice3-final/app/model/Person.js" />
-        <option value="$PROJECT_DIR$/Practice3-final/app/store/Persons.js" />
-        <option value="$PROJECT_DIR$/Practice3-final/app/Application.js" />
-        <option value="$PROJECT_DIR$/Practice4/app/view/Main.js" />
-        <option value="$PROJECT_DIR$/Practice4/app/view/Viewport.js" />
-        <option value="$PROJECT_DIR$/Practice4-final/app/view/Main.js" />
-        <option value="$PROJECT_DIR$/Practice4-final/app/store/Genders.js" />
-        <option value="$PROJECT_DIR$/Practice4-final/app/model/Person.js" />
-        <option value="$PROJECT_DIR$/Practice4-final/app/view/MyFirstForm.js" />
-        <option value="$PROJECT_DIR$/Practice4-final/app/Application.js" />
         <option value="$PROJECT_DIR$/Practice5/app/view/Main.js" />
         <option value="$PROJECT_DIR$/Practice5-final/app/Application.js" />
         <option value="$PROJECT_DIR$/Practice5-final/app/view/Main.js" />
         <option value="$PROJECT_DIR$/Practice5-final/app/model/Simpson.js" />
         <option value="$PROJECT_DIR$/Practice5-final/app/store/Simpsons.js" />
         <option value="$PROJECT_DIR$/Practice5-final/app/view/MyFirstGrid.js" />
+        <option value="$PROJECT_DIR$/Practice6-final/app/store/Simpsons.js" />
+        <option value="$PROJECT_DIR$/Practice6/app/view/Main.js" />
+        <option value="$PROJECT_DIR$/Practice6-final/app/model/Simpson.js" />
+        <option value="$PROJECT_DIR$/Practice6-final/app/model/Animal.js" />
+        <option value="$PROJECT_DIR$/Practice6-final/app/Application.js" />
+        <option value="$PROJECT_DIR$/Practice6-final/app/view/Main.js" />
+        <option value="$PROJECT_DIR$/Practice6-final/app/view/MyFirstGrid.js" />
+        <option value="$PROJECT_DIR$/Practice6-final/app/model/RottenMovie.js" />
+        <option value="$PROJECT_DIR$/Practice6-final/app/store/RottenMovies.js" />
+        <option value="$PROJECT_DIR$/Practice6-final/app/view/RottenMoviesGrid.js" />
       </list>
     </option>
   </component>
@@ -154,7 +209,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -173,84 +227,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Practice5-final" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Practice5-final" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Practice5-final" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ExtJS-Basic-to-Pro" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Practice5-final" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="store" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,30 +238,54 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="Errors" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Practice8" />
+    <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice5-final\app\model" />
-      <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice5-final\app\view" />
-      <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice5-final\app\store" />
-      <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice5-final" />
-      <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice5" />
+      <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6-final\app\view" />
+      <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6-final\app\store" />
+      <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6-final\app\model" />
+      <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6-final" />
+      <recent name="C:\wamp\www\Personal\Trainings\ExtJS-Basic-to-Pro\Practice6-final\app" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="CHROME" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
     <list size="0" />
@@ -298,21 +301,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25773746" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25988403" sideWeight="0.67074525" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -332,107 +335,100 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Practice3-final/app/model/Address.js">
+    <entry file="file://$PROJECT_DIR$/Practice5-final/app/view/Main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="392" selection-end="392" vertical-scroll-proportion="0.4857143" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice4/app/view/Main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="30" selection-start="154" selection-end="154" vertical-scroll-proportion="0.15542857" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice4/app/view/Viewport.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="283" selection-end="283" vertical-scroll-proportion="0.33028573" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice3-final/app/model/Person.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="0" selection-start="1669" selection-end="1669" vertical-scroll-proportion="1.5737143" vertical-offset="0" max-vertical-offset="1479">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice4-final/app/store/Genders.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="307" selection-end="307" vertical-scroll-proportion="0.42742857" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice4-final/app/model/Person.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="0" selection-start="1356" selection-end="1356" vertical-scroll-proportion="0.0" vertical-offset="298" max-vertical-offset="1173">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice5/.sencha/app/plugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice4-final/app/view/MyFirstForm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="29" selection-start="1625" selection-end="1625" vertical-scroll-proportion="0.58285713" vertical-offset="561" max-vertical-offset="1734">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice4-final/app/view/Main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="178" selection-end="178" vertical-scroll-proportion="0.25257143" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice4-final/app/Application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="0" selection-start="760" selection-end="760" vertical-scroll-proportion="0.7382857" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Practice5/app/view/Main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="30" selection-start="154" selection-end="154" vertical-scroll-proportion="0.15542857" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
+        <state line="13" column="0" selection-start="178" selection-end="178" vertical-scroll-proportion="0.25257143" vertical-offset="0" max-vertical-offset="875" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice5-final/app/Application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="18" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+        <state line="14" column="18" selection-start="238" selection-end="238" vertical-scroll-proportion="0.272" vertical-offset="0" max-vertical-offset="875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice6-final/resources/data/simpsons.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice4-final/app/store/Genders.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="27" selection-start="203" selection-end="203" vertical-scroll-proportion="0.23314285" vertical-offset="0" max-vertical-offset="875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice3-final/app/store/Persons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="37" selection-start="169" selection-end="169" vertical-scroll-proportion="0.15542857" vertical-offset="0" max-vertical-offset="875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice6/app/view/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="30" selection-start="154" selection-end="154" vertical-scroll-proportion="0.15542857" vertical-offset="0" max-vertical-offset="875" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice6/resources/data/simpsons.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="9" selection-start="491" selection-end="491" vertical-scroll-proportion="0.36042404" vertical-offset="0" max-vertical-offset="849" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice6-final/app/model/Animal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="306" selection-end="306" vertical-scroll-proportion="0.33028573" vertical-offset="0" max-vertical-offset="875">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice5-final/app/view/Main.js">
+    <entry file="file://$PROJECT_DIR$/Practice6-final/app/store/Simpsons.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+        <state line="9" column="0" selection-start="136" selection-end="136" vertical-scroll-proportion="0.17485714" vertical-offset="0" max-vertical-offset="875">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice5-final/app/store/Simpsons.js">
+    <entry file="file://$PROJECT_DIR$/Practice6-final/app/model/Simpson.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="902" selection-end="902" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+        <state line="21" column="5" selection-start="586" selection-end="586" vertical-scroll-proportion="0.408" vertical-offset="0" max-vertical-offset="875">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Practice5-final/app/view/MyFirstGrid.js">
+    <entry file="file://$PROJECT_DIR$/Practice6-final/app/view/MyFirstGrid.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="10" selection-start="680" selection-end="680" vertical-scroll-proportion="0.68" vertical-offset="0" max-vertical-offset="1819">
+        <state line="7" column="15" selection-start="134" selection-end="134" vertical-scroll-proportion="0.067428574" vertical-offset="60" max-vertical-offset="935">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice6-final/app/view/Main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="237" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice6-final/app/Application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="25" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice6-final/app/model/RottenMovie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="0" selection-start="704" selection-end="704" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice6-final/app/store/RottenMovies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Practice6-final/app/view/RottenMoviesGrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="659" selection-end="659" vertical-scroll-proportion="0.7382857" vertical-offset="0" max-vertical-offset="875">
           <folding />
         </state>
       </provider>

@@ -1,0 +1,37 @@
+{
+    "simpsons": [
+        {
+            "name": "Lisa",
+            "email": "lisa@simpsons.com",
+            "phone": "555-111-1224",
+            "isAlcoholic": false,
+            "birthDate": "11/11/1975",
+            "weight": 40.1234
+        },
+        {
+            "name": "Bart",
+            "email": "bart@simpsons.com",
+            "phone": "555-222-1234",
+            "isAlcoholic": false,
+            "birthDate": "11/11/1973",
+            "weight": 45.1234
+        },
+        {
+            "name": "Homer",
+            "email": "home@simpsons.com",
+            "phone": "555-222-1244",
+            "isAlcoholic": true,
+            "birthDate": "11/11/1945",
+            "weight": 150.1234
+        },
+        {
+            "name": "Marge",
+            "email": "marge@simpsons.com",
+            "phone": "555-222-1254",
+            "isAlcoholic": false,
+            "birthDate": "11/11/1955",
+            "weight": 70.1234
+        }
+    ]
+}
+

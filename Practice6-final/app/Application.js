@@ -4,7 +4,8 @@ Ext.define('Practice6.Application', {
     extend: 'Ext.app.Application',
 
     views: [
-        // TODO: add views here
+        'MyFirstGrid',
+        'RottenMoviesGrid'
     ],
 
     controllers: [
@@ -12,6 +13,22 @@ Ext.define('Practice6.Application', {
     ],
 
     stores: [
-        // TODO: add stores here
-    ]
+        'Simpsons',
+        'RottenMovies'
+    ],
+
+    models: [
+        'Simpson',
+        'Animal',
+        'RottenMovie'
+    ],
+
+    launch: function(){
+        var tmpAnimal = Ext.create('Practice6.model.Animal',{
+            name: 'Dog',
+            group: 'Mammal'
+        });
+        tmpAnimal.save();
+    }
+
 });

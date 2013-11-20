@@ -6,10 +6,7 @@ Ext.define('Practice6.view.Main', {
 
     items: [
         {
-            xtype: 'myfirstgrid'
-        },
-        {
-            xtype: 'rottenmoviesgrid'
+            xtype: 'container'
         }
     ]
 });
