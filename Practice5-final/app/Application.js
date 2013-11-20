@@ -4,7 +4,7 @@ Ext.define('Practice5.Application', {
     extend: 'Ext.app.Application',
 
     views: [
-        // TODO: add views here
+        'MyFirstGrid'
     ],
 
     controllers: [
@@ -12,6 +12,6 @@ Ext.define('Practice5.Application', {
     ],
 
     stores: [
-        // TODO: add stores here
+        'Simpsons'
     ]
 });
