@@ -6,8 +6,7 @@ Ext.define('Practice7.view.Main', {
 
     items: [
         {
-            xtype: 'myfirstform'
+            xtype: 'container'
         }
     ]
-
 });
