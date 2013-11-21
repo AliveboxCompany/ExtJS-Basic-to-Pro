@@ -4,14 +4,19 @@ Ext.define('Practice9.Application', {
     extend: 'Ext.app.Application',
 
     views: [
-        // TODO: add views here
+        'ArticleForm'
     ],
 
     controllers: [
-        // TODO: add controllers here
+        'MainController'
     ],
 
     stores: [
         // TODO: add stores here
+    ],
+
+    models: [
+        'Article'
     ]
+
 });
