@@ -14,7 +14,7 @@ Ext.define('Practice11.view.Main', {
     items: [
         {
             xtype: 'form',
-            width: 500,
+            width: 800,
             defaults: {
                 anchor: '100%'
             },
@@ -23,8 +23,8 @@ Ext.define('Practice11.view.Main', {
                     text: 'Disabled and Read Only = false, value = new date',
                     handler: function(){
                         var tmpForm = this.up('form');
-                        Ext.suspendLayouts();
-                        //Lets loop through the 30 fields of this beatiful form
+//                        Ext.suspendLayouts();
+                        //Lets loop through the 45 fields of this beatiful form
                         var tmpFields = tmpForm.getForm().getFields();
                         for( var tmpIndex=0; tmpIndex < tmpFields.getCount(); tmpIndex++ ){
                             var tmpField = tmpFields.getAt(tmpIndex);
@@ -32,15 +32,15 @@ Ext.define('Practice11.view.Main', {
                             tmpField.setValue(new Date());
                             tmpField.setReadOnly(false);
                         }
-                        Ext.resumeLayouts();
+//                        Ext.resumeLayouts();
                     }
                 },
                 {
                     text: 'Disabled and Read Only = true, value = null',
                     handler: function(){
                         var tmpForm = this.up('form');
-                        Ext.suspendLayouts();
-                        //Lets loop through the 30 fields of this beatiful form
+//                        Ext.suspendLayouts();
+                        //Lets loop through the 45 fields of this beatiful form
                         var tmpFields = tmpForm.getForm().getFields();
                         for( var tmpIndex=0; tmpIndex < tmpFields.getCount(); tmpIndex++ ){
                             var tmpField = tmpFields.getAt(tmpIndex);
@@ -48,14 +48,14 @@ Ext.define('Practice11.view.Main', {
                             tmpField.setValue(null);
                             tmpField.setReadOnly(true);
                         }
-                        Ext.resumeLayouts();
+//                        Ext.resumeLayouts();
                     }
                 }
             ],
             items: [
                 {
                     xtype: 'container',
-                    width: 500,
+                    width: 800,
                     layout: {
                         type: 'hbox',
                         align: 'stretch'
@@ -170,6 +170,62 @@ Ext.define('Practice11.view.Main', {
                                 },
                                 {
                                     fieldLabel: 'Field30'
+                                }
+                            ]
+                        },
+                        {
+                            xtype: 'container',
+                            flex: 1,
+                            layout: 'anchor',
+                            defaults: {
+                                xtype: 'datefield',
+                                anchor: '100%'
+                            },
+                            items: [
+                                {
+                                    fieldLabel: 'Field31'
+                                },
+                                {
+                                    fieldLabel: 'Field32'
+                                },
+                                {
+                                    fieldLabel: 'Field33'
+                                },
+                                {
+                                    fieldLabel: 'Field34'
+                                },
+                                {
+                                    fieldLabel: 'Field35'
+                                },
+                                {
+                                    fieldLabel: 'Field36'
+                                },
+                                {
+                                    fieldLabel: 'Field37'
+                                },
+                                {
+                                    fieldLabel: 'Field38'
+                                },
+                                {
+                                    fieldLabel: 'Field39'
+                                },
+                                {
+                                    fieldLabel: 'Field40'
+                                },
+                                {
+                                    fieldLabel: 'Field41'
+                                },
+                                {
+                                    fieldLabel: 'Field42'
+                                },
+                                {
+                                    fieldLabel: 'Field43'
+                                },
+                                {
+                                    fieldLabel: 'Field44'
+                                },
+                                {
+                                    fieldLabel: 'Field45'
                                 }
                             ]
                         }
