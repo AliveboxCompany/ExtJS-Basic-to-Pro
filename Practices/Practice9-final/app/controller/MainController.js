@@ -36,6 +36,7 @@ Ext.define('Practice9.controller.MainController', {
 
     showArticleValues: function(){
         var tmpRecord = this.getArticleForm().getRecord();
+        var tmpValidateImageField = this.getValidateImageField();
         this.getArticleForm().updateRecord(tmpRecord);
 
         var tmpValues = "";
@@ -43,6 +44,7 @@ Ext.define('Practice9.controller.MainController', {
         tmpValues = tmpValues + "Article user = " + tmpRecord.get('user') + "\n";
         tmpValues = tmpValues + "Article image url = " + tmpRecord.get('image').url + "\n";
         tmpValues = tmpValues + "Article image rejected? = " + !tmpRecord.get('image').rejected + "\n";
+        tmpValues = tmpValues + "Is Valid? = " + tmpValidateImageField.isValid() + "\n";
 
         alert(tmpValues);
     }

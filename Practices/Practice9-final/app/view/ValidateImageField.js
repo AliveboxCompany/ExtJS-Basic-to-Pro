@@ -8,23 +8,47 @@ Ext.define('Practice9.view.ValidateImageField', {
         field: 'Ext.form.field.Field'
     },
 
+    statics: {
+        DEFAULT_IMAGE_URL: 'resources/img/defaultimage.png'
+    },
+
     value: null,
 
-    items: [
-        {
+    initComponent: function(){
+        this.items = [
+            this.getUrlTextfieldConfig(),
+            this.getImageConfig(),
+            this.getIsValidCheckboxConfig()
+        ];
+        this.callParent(arguments);
+        this.initMixins();
+    },
+
+    getUrlTextfieldConfig: function(){
+        return {
+            xtype: 'textfield',
+            width: 200,
+            itemId: 'txtUrl',
+            listeners: {
+                scope: this,
+                blur: this.onUrlBlur
+            }
+        };
+    },
+
+    getImageConfig: function(){
+        return {
             xtype: 'image',
             itemId: 'imgToValidate'
-        },
-        {
+        };
+    },
+
+    getIsValidCheckboxConfig: function(){
+        return {
             xtype: 'checkboxfield',
             itemId: 'chxIsValid',
             boxLabel: 'Is Valid?'
-        }
-    ],
-
-    initComponent: function(){
-        this.callParent(arguments);
-        this.initMixins();
+        };
     },
 
     initMixins: function(){
@@ -33,13 +57,28 @@ Ext.define('Practice9.view.ValidateImageField', {
 
     afterRender: function(){
         this.callParent(arguments);
+        this.cacheItems();
         this.initImageListeners();
+    },
+
+    cacheItems: function(){
+        this.urlTextfield = this.down('textfield');
+        this.image = this.down('image');
+        this.isValidCheckbox = this.down('checkboxfield');
     },
 
     initImageListeners: function(){
         var that = this;
-        var tmpImageEl = this.down('image').getEl();
+        var tmpImageEl = this.image.getEl();
         tmpImageEl.on('load',this.doLayout,this);
+        tmpImageEl.on('error',this.onImageError,this);
+    },
+
+    onImageError: function(){
+        this.value.url = Practice9.view.ValidateImageField.DEFAULT_IMAGE_URL;
+        this.updateImage();
+        this.updateTextfield();
+        this.validate();
     },
 
     setValue: function(argValue){
@@ -47,28 +86,41 @@ Ext.define('Practice9.view.ValidateImageField', {
             return this;
         }
         this.value = argValue;
+        this.updateTextfield();
         this.updateImage();
         this.updateCheckbox();
+        this.validate();
         return this;
     },
 
+    updateTextfield: function(){
+        this.urlTextfield.setValue(this.value.url);
+    },
+
     updateImage: function(){
-        var tmpImage = this.down('image');
-        tmpImage.setSrc(this.value.url);
+        this.image.setSrc(this.value.url);
     },
 
     updateCheckbox: function(){
-        var tmpCheckbox = this.down('checkboxfield');
-        tmpCheckbox.setValue( !this.value.rejected );
+        this.isValidCheckbox.setValue( !this.value.rejected );
     },
 
     getValue: function(){
-        var tmpCheckbox = this.down('checkboxfield');
-        this.value.rejected = tmpCheckbox.getValue();
+        this.value.url = this.urlTextfield.getValue();
+        this.value.rejected = this.isValidCheckbox.getValue();
         return this.value;
+    },
+
+    isValid: function(){
+        if( Ext.isEmpty(this.value) || Ext.isEmpty(this.value.url) || this.value.url === Practice9.view.ValidateImageField.DEFAULT_IMAGE_URL ){
+            return false;
+        }
+        return true;
+    },
+
+    onUrlBlur: function(){
+        this.value.url = this.urlTextfield.getValue();
+        this.updateImage();
     }
 
 });
-
-
-
